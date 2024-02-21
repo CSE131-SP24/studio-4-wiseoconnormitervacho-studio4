@@ -16,6 +16,5 @@ public class Flag {
 		StdDraw.setPenRadius(0.05);
 		StdDraw.rectangle(0.5, 0.5, 0.3, 0.2);
 		StdDraw.setPenRadius(0.002);
-		
 	}
 }
